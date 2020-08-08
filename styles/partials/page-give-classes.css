@@ -40,7 +40,8 @@
 #page-give-classes fieldset legend button {
   background: none;
   border: 0;
-
+  outline: none;
+  
   color: var(--color-primary);
 
   font: 700 1.6rem Archivo;
